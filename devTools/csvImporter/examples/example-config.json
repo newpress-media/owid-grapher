@@ -1,0 +1,31 @@
+{
+  "datasetName": "Example Development Indicators",
+  "datasetDescription": "Sample dataset with population, GDP, and life expectancy data for testing CSV import",
+  "namespace": "custom",
+  "version": "2024-11-20",
+  "files": [
+    {
+      "path": "devTools/csvImporter/examples/data/population.csv",
+      "variableName": "Total Population",
+      "variableDescription": "Total population in millions",
+      "unit": "millions",
+      "shortName": "population"
+    },
+    {
+      "path": "devTools/csvImporter/examples/data/gdp.csv",
+      "variableName": "GDP per capita",
+      "variableDescription": "Gross Domestic Product per capita, PPP (constant 2017 international $)",
+      "unit": "international-$ in 2017 prices",
+      "shortName": "gdp_per_capita"
+    },
+    {
+      "path": "devTools/csvImporter/examples/data/life-expectancy.csv",
+      "variableName": "Life expectancy at birth",
+      "variableDescription": "Life expectancy at birth, total (years)",
+      "unit": "years",
+      "shortName": "life_expectancy"
+    }
+  ],
+  "entityMapping": {},
+  "userId": 1
+}

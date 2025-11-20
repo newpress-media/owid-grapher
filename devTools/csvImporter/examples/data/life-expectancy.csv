@@ -1,0 +1,31 @@
+entity,year,value
+United States,2015,78.7
+United States,2016,78.7
+United States,2017,78.6
+United States,2018,78.7
+United States,2019,78.8
+United States,2020,77.0
+United Kingdom,2015,81.0
+United Kingdom,2016,81.2
+United Kingdom,2017,81.2
+United Kingdom,2018,81.3
+United Kingdom,2019,81.4
+United Kingdom,2020,80.4
+Germany,2015,80.7
+Germany,2016,81.0
+Germany,2017,81.1
+Germany,2018,81.0
+Germany,2019,81.3
+Germany,2020,80.6
+France,2015,82.4
+France,2016,82.7
+France,2017,82.6
+France,2018,82.7
+France,2019,82.7
+France,2020,82.0
+Japan,2015,83.8
+Japan,2016,84.2
+Japan,2017,84.2
+Japan,2018,84.2
+Japan,2019,84.4
+Japan,2020,84.6

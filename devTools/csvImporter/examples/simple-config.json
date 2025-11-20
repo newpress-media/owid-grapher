@@ -1,0 +1,15 @@
+{
+  "datasetName": "Simple Population Example",
+  "datasetDescription": "Single variable example for testing",
+  "namespace": "custom",
+  "version": "2024-11-20",
+  "files": [
+    {
+      "path": "devTools/csvImporter/examples/data/population.csv",
+      "variableName": "Total Population",
+      "variableDescription": "Total population in millions",
+      "unit": "millions",
+      "shortName": "population"
+    }
+  ]
+}
